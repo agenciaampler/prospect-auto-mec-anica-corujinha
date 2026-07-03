@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Oficina em Colombo · Nota 4,4 no Google",
+    "hero_line": "Mecânica de confiança para o seu carro, em Santa Terezinha, Colombo e região.",
+    "services_headline": "O que resolvemos no seu carro",
+    "services_intro": "Serviços completos para carros populares das principais marcas. Diagnóstico honesto e orçamento antes de qualquer serviço.",
+    "split_headline": "Seu carro nas mãos de quem entende",
+    "confidence_headline": "Por que a Corujinha é a escolha de quem mora perto",
+    "location_headline": "Fácil de chegar, em Santa Terezinha, Colombo",
+    "steps_headline": "Como funciona o atendimento",
+    "faq_headline": "Perguntas frequentes",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Barulho estranho ou luz no painel? A gente identifica a causa e explica o problema antes de mexer no carro.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Pastilhas, discos, amortecedores e buchas. Revisamos o conjunto para o carro frear e rodar com segurança.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Troca de óleo, filtros, correias e itens de desgaste. Manutenção em dia para evitar gasto maior lá na frente.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Orçamento antes de tudo",
+            "body": "Você aprova o valor pelo WhatsApp antes de qualquer serviço. Sem surpresa na hora de pagar.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Marcas populares",
+            "body": "Atendemos Fiat, Chevrolet, VW, Renault, Hyundai, Toyota, Honda e Nissan no dia a dia da oficina.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Resposta rápida",
+            "body": "Chamou no WhatsApp, a gente responde. Agende horário e evite fila na oficina.",
+            "icon": "ph-whatsapp-logo"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Vocês atendem só Colombo ou também Curitiba?",
+            "answer": "Atendemos clientes de Colombo, Curitiba e toda a região metropolitana. Estamos na R. Antônio Maschio, 61, em Santa Terezinha."
+        },
+        {
+            "question": "Preciso agendar ou posso chegar direto?",
+            "answer": "Recomendamos agendar pelo WhatsApp para garantir seu horário, mas também recebemos quem chega direto, conforme a agenda do dia."
+        },
+        {
+            "question": "O orçamento é cobrado?",
+            "answer": "Não. Avaliamos o carro, passamos o orçamento pelo WhatsApp e você decide. Só fazemos o serviço depois da sua aprovação."
+        },
+        {
+            "question": "Quais marcas de carro vocês atendem?",
+            "answer": "Trabalhamos com as marcas mais comuns do Brasil: Fiat, Chevrolet, Volkswagen, Renault, Hyundai, Toyota, Honda e Nissan."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Vertical, dia claro e seco em Colombo/RMC. Mecânico de meia-idade sorrindo ao lado de carro popular no elevador. Fundo limpo, sem placas nem logos. Área de respiro no topo para texto.",
+        "hero_desktop": "Horizontal, luz natural de manhã. Fachada interna da oficina organizada, carro popular em atendimento. Espaço negativo à esquerda para headline e CTA. Sem chuva, sem letreiros legíveis.",
+        "service_1": "Close das mãos de mecânico com scanner de diagnóstico no painel de carro popular. Luz de dia, foco raso, sem marcas visíveis. Recorte quadrado seguro para mobile.",
+        "service_2": "Mecânica jovem trocando pastilha de freio, roda removida, dia claro. Pessoa diferente do hero. Enquadramento médio, fundo de oficina limpo, sem logos.",
+        "trust": "Cliente recebendo a chave do carro do mecânico, aperto de mãos, sorriso natural. Exterior da oficina, céu claro típico de Curitiba, chão seco. Pessoas distintas das demais fotos.",
+        "og_image": "Horizontal 1200x630, carro popular na entrada da oficina, dia claro. Composição central com margens amplas para sobreposição do nome. Sem placas, sem texto na cena."
+    },
+    "quality_checks": [
+        "Contraste AA validado: botão WhatsApp em verde sobre fundo claro e textos com razão mínima 4.5:1 nos tokens da marca.",
+        "Schema LocalBusiness/AutoRepair com endereço, nota 4,4 (199 avaliações), horários e FAQPage; links de ação com aria-label para WhatsApp e rota no mapa.",
+        "Copy revisada: frases curtas, acentuação correta, sem promessa de posição garantida no Google ou em IAs — apenas linguagem de estrutura e possibilidade."
+    ],
+    "created_by": "zenmux:anthropic/claude-fable-5",
+    "created_at": "2026-07-02T20:34:27-03:00"
+}
